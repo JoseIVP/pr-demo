@@ -1,5 +1,5 @@
 class Dog {
     bark() {
-        console.log('Woof!');
+        console.log('Woof!  Woof!');
     }
 }
